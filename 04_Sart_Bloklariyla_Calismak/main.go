@@ -9,5 +9,7 @@ import (
 func main() {
 	veriables.Demo1()
 	fmt.Print()
-	conditionals.Demo1()
+	//conditionals.Demo1() // İf Kullanımı
+	conditionals.Demo2() // İf / else Kulanımları
+	conditionals.Demo3()
 }
