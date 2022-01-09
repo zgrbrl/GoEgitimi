@@ -7,5 +7,6 @@ func main() {
 	//loops.Demo2()
 	//loops.Demo3()
 	//loops.Demo4()
-	loops.HesapMakinasi()
+	//loops.HesapMakinasi()
+	loops.Demo5()
 }
