@@ -8,7 +8,7 @@ func Demo1() {
 	i := 1
 
 	for i <= 5 {
-		fmt.Println(metin)
+		fmt.Printf("%v. %v \n", i, metin)
 		i = i + 1
 	}
 

@@ -8,5 +8,7 @@ func main() {
 	//loops.Demo3()
 	//loops.Demo4()
 	//loops.HesapMakinasi()
-	loops.Demo5()
+	//loops.Demo5()
+	//loops.Demo6()
+	loops.MultiplicationTable()
 }
